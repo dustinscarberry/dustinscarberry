@@ -7,7 +7,7 @@
 
 - 🧰 I build with ...
 
-![This is an image](https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
 - 📫 How to reach me ...
