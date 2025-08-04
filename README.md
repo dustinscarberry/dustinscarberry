@@ -1,3 +1,6 @@
+<img src="https://github.com/dustinscarberry/dustinscarberry/blob/39bdf105953965924681ad20bf46b6e142f623dd/brand/profile.png" alt="Hi! I'm Dustin - Software Engineer">
+
+
 - 👋 Hi, I’m @dustinscarberry
 
 - 👀 I’m interested in ...
